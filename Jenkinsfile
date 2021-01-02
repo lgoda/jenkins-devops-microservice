@@ -22,7 +22,7 @@ pipeline {
 			echo 'Im awesom. I run always.'
 		}
 		success {
-			echo 'I run when you are successful.'
+			echo 'I run when you are successful. HA HA HA'
 		}
 		failure {
 			echo 'I run when you fail.'
